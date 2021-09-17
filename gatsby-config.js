@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "4hcomputers-courses",
+    siteUrl: "https://courses.4hcomputers.club",
+    title: "4-H Computers Online Courses",
   },
   plugins: ["gatsby-plugin-sass"],
 };
